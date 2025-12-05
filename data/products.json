@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Whey Protein - Chocolate",
+    "price": 1399,
+    "category": "Supplements",
+    "image": "https://via.placeholder.com/300x300",
+    "brand": "NutraCore",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "title": "Creatine Monohydrate",
+    "price": 699,
+    "category": "Supplements",
+    "image": "https://via.placeholder.com/300x300",
+    "brand": "PureLift",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "title": "Pre-Workout - Blue Raspberry",
+    "price": 899,
+    "category": "Pre-Workout",
+    "image": "https://via.placeholder.com/300x300",
+    "brand": "PumpX",
+    "rating": 4.0
+  },
+  {
+    "id": 4,
+    "title": "Multivitamin Daily",
+    "price": 499,
+    "category": "Vitamins",
+    "image": "https://via.placeholder.com/300x300",
+    "brand": "HealthMax",
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "title": "Omega 3 Fish Oil",
+    "price": 599,
+    "category": "Vitamins",
+    "image": "https://via.placeholder.com/300x300",
+    "brand": "NutraCore",
+    "rating": 4.1
+  },
+  {
+    "id": 6,
+    "title": "Whey Protein - Vanilla",
+    "price": 1299,
+    "category": "Supplements",
+    "image": "https://via.placeholder.com/300x300",
+    "brand": "NutraCore",
+    "rating": 4.4
+  }
+]
